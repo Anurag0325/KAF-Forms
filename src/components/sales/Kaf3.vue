@@ -535,7 +535,7 @@ export default {
                             <v-card-text>
                                 <v-checkbox 
                                     v-model="surveillance.A" 
-                                    label="Annual: 2 audits for 3-year period. Rs. 12,000/- per year. Total Rs. 24,000/-" 
+                                    label="Annual: 2 audits for 3-year period." 
                                     dense class="my-0 py-0"
                                 ></v-checkbox>
                                 <v-checkbox 
@@ -576,9 +576,9 @@ export default {
 
                         <!-- Registration Fee Section -->
                         <v-card class="mb-3" outlined>
-                            <v-card-title>Registration Fee Payable to KVQA ASSESSMENT PRIVATE LIMITED</v-card-title>
+                            <v-card-title>Registration Fee Payable to KVQA</v-card-title>
                             <v-card-text>
-                                KVQA ASSESSMENT PRIVATE LIMITED Registration charges: Rs.10,000/-  
+                                KVQA Registration charges: Rs.10,000/-  
                                 <br>Audit shall be done by Auditor from New Delhi.
                             </v-card-text>
                         </v-card>
@@ -588,7 +588,7 @@ export default {
                             <v-card-title>Additional Notes:</v-card-title>
                             <v-card-text>
                                 The above quotation is exclusive of all taxes. 18% GST is levied. Any tax arising must be borne by the client.  
-                                <br>All travel and stay to be arranged by the client or if arranged by KVQA ASSESSMENT PRIVATE LIMITED to be reimbursed at actual.  
+                                <br>All travel and stay to be arranged by the client or if arranged by KVQA to be reimbursed at actual.  
                                 <br>All travel by taxi, IIAC sleeper, and stay in AC rooms.  
                                 <br><strong>This quotation is valid till 90 days from the date of issue.</strong>
                             </v-card-text>
@@ -617,7 +617,7 @@ export default {
                         <v-container>
                             <v-row justify="center">
                                 <v-col cols="12" class="text-center">
-                                    <strong>Address:</strong> KVQA ASSESSMENT PRIVATE LIMITED,  
+                                    <strong>Address:</strong> KVQA,  
                                     F-300, Sector-63, Noida-201301, U.P., India.  
                                     <br><strong>Phone:</strong> +91-9810059955  
                                     <br><strong>Email:</strong> info@iso-registration.com  

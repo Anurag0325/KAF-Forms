@@ -181,8 +181,8 @@
                     ></v-checkbox>
                     <v-checkbox
                         v-model="form.auditStandards"
-                        value="ISO 27001:2013"
-                        label="ISO 27001:2013"
+                        value="ISO 27001:2022"
+                        label="ISO 27001:2022"
                         density="compact"
                         hide-details
                     ></v-checkbox>

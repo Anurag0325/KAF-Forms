@@ -120,7 +120,7 @@
           </v-card-title>
           <v-card-text class="text-body-1">
             <p>
-              Certification audit is performed on the basis of audit standards and Quality/Environmental Management of the applicant. The Accreditation body may visit for certification activities along with KVQA ASSESSMENT PRIVATE LIMITED or otherwise:
+              Certification audit is performed on the basis of audit standards and Quality/Environmental Management of the applicant. The Accreditation body may visit for certification activities along with KVQA or otherwise:
             </p>
             <v-list density="compact">
               <v-list-item>
@@ -174,7 +174,7 @@
         <v-card class="mb-3" outlined>
           <v-card-title class="text-h6 font-weight-bold">Article 4: The confirmation of the Certification standard</v-card-title>
           <v-card-text>
-            <p>The confirmation of the certification scope Certification standard, certification scope (items) and address of on-sites are decided with prior mutual agreement. Ambiguities relating to these are processed in accordance with KVQA ASSESSMENT PRIVATE LIMITED.</p>
+            <p>The confirmation of the certification scope Certification standard, certification scope (items) and address of on-sites are decided with prior mutual agreement. Ambiguities relating to these are processed in accordance with KVQA.</p>
             <p>Provisions and the content stated in Confirmation of certification scope (C600-FormJ) provided by auditor during audit will be final decision.</p>
           </v-card-text>
         </v-card>
@@ -309,7 +309,7 @@
                 <p><strong>10. </strong>The problem with registering certification has been occurred because changes as described in article 8 have not been notified to certification body.</p>
               </v-list-item>
               <v-list-item>
-                <p><strong>11. </strong>The certified organization violets its agreement with KVQA ASSESSMENT PRIVATE LIMITED.</p>
+                <p><strong>11. </strong>The certified organization violets its agreement with KVQA.</p>
               </v-list-item>
               <v-list-item>
                 <p><strong>12. </strong>Corrective action for minor nonconformity has not been verified within 30 days.</p>
@@ -372,7 +372,7 @@
                 <p><strong>- </strong>Information legally obtained from where it is not related to the applicant;</p>
               </v-list-item>
               <v-list-item>
-                <p><strong>- </strong>Information required by Accreditation body for its evaluation of certification body. Information about the client from sources other than the client (e.g. complainant, regulators), shall be treated as confidential, consistent with the KVQA ASSESSMENT PRIVATE LIMITED Certification body’s policy.</p>
+                <p><strong>- </strong>Information required by Accreditation body for its evaluation of certification body. Information about the client from sources other than the client (e.g. complainant, regulators), shall be treated as confidential, consistent with the KVQA Certification body’s policy.</p>
               </v-list-item>
             </v-list>
           </v-card-text>
@@ -547,7 +547,7 @@
               </v-row>
               <v-row>
                 <v-col cols="12" md="12">
-                  <p>(For and behalf of KVQA ASSESSMENT PRIVATE LIMITED.)New Delhi</p>
+                  <p>(For and behalf of KVQA.)New Delhi</p>
                 </v-col>
               </v-row>
             </v-col>
