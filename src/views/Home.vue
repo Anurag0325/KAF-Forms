@@ -52,6 +52,7 @@
    <template>
     <v-app>
       <v-container class="d-flex flex-column align-center justify-center" style="height: 100vh;">
+        <v-btn color="primary" class="mb-2" @click="goTo('/sales/kaf1')">Go to KAF1</v-btn>
         <v-btn color="primary" class="mb-2" @click="goTo('/sales/kaf2')">Go to KAF2</v-btn>
         <v-btn color="secondary" class="mb-2" @click="goTo('/sales/kaf3')">Go to KAF3</v-btn>
         <v-btn color="success" @click="goTo('/sales/kaf4')">Go to KAF4</v-btn>
